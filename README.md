@@ -4,23 +4,23 @@
 
 | Current Release/main | Development Branch/dev |
 |         :---:          |          :---:         |
-| [![Ubuntu Core Tests](https://github.com/Chia-Network/chia-blockchain/actions/workflows/build-test-ubuntu-core.yml/badge.svg)](https://github.com/Chia-Network/chia-blockchain/actions/workflows/build-test-ubuntu-core.yml) [![MacOS Core Tests](https://github.com/Chia-Network/chia-blockchain/actions/workflows/build-test-macos-core.yml/badge.svg)](https://github.com/Chia-Network/chia-blockchain/actions/workflows/build-test-macos-core.yml) [![Windows Installer on Windows 10 and Python 3.7](https://github.com/Chia-Network/chia-blockchain/actions/workflows/build-windows-installer.yml/badge.svg)](https://github.com/Chia-Network/chia-blockchain/actions/workflows/build-windows-installer.yml)  |  [![Ubuntu Core Tests](https://github.com/Chia-Network/chia-blockchain/actions/workflows/build-test-ubuntu-core.yml/badge.svg?branch=dev)](https://github.com/Chia-Network/chia-blockchain/actions/workflows/build-test-ubuntu-core.yml) [![MacOS Core Tests](https://github.com/Chia-Network/chia-blockchain/actions/workflows/build-test-macos-core.yml/badge.svg?branch=dev)](https://github.com/Chia-Network/chia-blockchain/actions/workflows/build-test-macos-core.yml) [![Windows Installer on Windows 10 and Python 3.7](https://github.com/Chia-Network/chia-blockchain/actions/workflows/build-windows-installer.yml/badge.svg?branch=dev)](https://github.com/Chia-Network/chia-blockchain/actions/workflows/build-windows-installer.yml) |
+| [![Ubuntu Core Tests](https://github.com/TPMR-GIT/EscudoHD/actions/workflows/build-test-ubuntu-core.yml/badge.svg)](https://github.com/TPMR-GIT/EscudoHD/actions/workflows/build-test-ubuntu-core.yml) [![MacOS Core Tests](https://github.com/TPMR-GIT/EscudoHD/actions/workflows/build-test-macos-core.yml/badge.svg)](https://github.com/TPMR-GIT/EscudoHD/actions/workflows/build-test-macos-core.yml) [![Windows Installer on Windows 10 and Python 3.7](https://github.com/TPMR-GIT/EscudoHD/actions/workflows/build-windows-installer.yml/badge.svg)](https://github.com/TPMR-GIT/EscudoHD/actions/workflows/build-windows-installer.yml)  |  [![Ubuntu Core Tests](https://github.com/TPMR-GIT/EscudoHD/actions/workflows/build-test-ubuntu-core.yml/badge.svg?branch=dev)](https://github.com/TPMR-GIT/EscudoHD/actions/workflows/build-test-ubuntu-core.yml) [![MacOS Core Tests](https://github.com/TPMR-GIT/EscudoHD/actions/workflows/build-test-macos-core.yml/badge.svg?branch=dev)](https://github.com/TPMR-GIT/EscudoHD/actions/workflows/build-test-macos-core.yml) [![Windows Installer on Windows 10 and Python 3.7](https://github.com/TPMR-GIT/EscudoHD/actions/workflows/build-windows-installer.yml/badge.svg?branch=dev)](https://github.com/TPMR-GIT/EscudoHD/actions/workflows/build-windows-installer.yml) |
 
-![GitHub contributors](https://img.shields.io/github/contributors/Chia-Network/chia-blockchain?logo=GitHub)
+![GitHub contributors](https://img.shields.io/github/contributors/EscudoHDchia-blockchain?logo=GitHub)
 
 Chia is a modern cryptocurrency built from scratch, designed to be efficient, decentralized, and secure. Here are some of the features and benefits:
 * [Proof of space and time](https://docs.google.com/document/d/1tmRIb7lgi4QfKkNaxuKOBHRmwbVlGL4f7EsBDr_5xZE/edit) based consensus which allows anyone to farm with commodity hardware
 * Very easy to use full node and farmer GUI and cli (thousands of nodes active on mainnet)
-* [Chia seeder](https://github.com/Chia-Network/chia-blockchain/wiki/Chia-Seeder-User-Guide), which maintains a list of reliable nodes within the Chia network via a built-in DNS server.
+* [Chia seeder](https://github.com/TPMR-GIT/EscudoHD/wiki/Chia-Seeder-User-Guide), which maintains a list of reliable nodes within the Chia network via a built-in DNS server.
 * Simplified UTXO based transaction model, with small on-chain state
 * Lisp-style Turing-complete functional [programming language](https://chialisp.com/) for money related use cases
 * BLS keys and aggregate signatures (only one signature per block)
-* [Pooling protocol](https://github.com/Chia-Network/chia-blockchain/wiki/Pooling-User-Guide) that allows farmers to have control of making blocks
+* [Pooling protocol](https://github.com/TPMR-GIT/EscudoHD/wiki/Pooling-User-Guide) that allows farmers to have control of making blocks
 * Support for light clients with fast, objective syncing
 * A growing community of farmers and developers around the world
 
-Please check out the [wiki](https://github.com/Chia-Network/chia-blockchain/wiki)
-and [FAQ](https://github.com/Chia-Network/chia-blockchain/wiki/FAQ) for
+Please check out the [wiki](https://github.com/TPMR-GIT/EscudoHD/wiki)
+and [FAQ](https://github.com/TPMR-GIT/EscudoHD/wiki/FAQ) for
 information on this project.
 
 Python 3.7+ is required. Make sure your default python version is >=3.7
@@ -42,13 +42,13 @@ for consensus.
 ## Installing
 
 Install instructions are available in the
-[INSTALL](https://github.com/Chia-Network/chia-blockchain/wiki/INSTALL)
+[INSTALL](https://github.com/TPMR-GIT/EscudoHD/wiki/INSTALL)
 section of the
-[chia-blockchain repository wiki](https://github.com/Chia-Network/chia-blockchain/wiki).
+[chia-blockchain repository wiki](https://github.com/TPMR-GIT/EscudoHD/wiki).
 
 ## Running
 
 Once installed, a
-[Quick Start Guide](https://github.com/Chia-Network/chia-blockchain/wiki/Quick-Start-Guide)
+[Quick Start Guide](https://github.com/TPMR-GIT/EscudoHD/wiki/Quick-Start-Guide)
 is available from the repository
-[wiki](https://github.com/Chia-Network/chia-blockchain/wiki).
+[wiki](https://github.com/TPMR-GIT/EscudoHD/wiki).
